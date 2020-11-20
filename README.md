@@ -1,4 +1,4 @@
-# Salut, je suis Teddy Clément 👋
+## Salut, je suis Teddy Clément 👋
 
 ### Tu peux découvrir mon site internet : [teddyclement.com][website]
 ---
