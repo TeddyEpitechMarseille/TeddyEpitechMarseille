@@ -1,7 +1,5 @@
 # Salut, je suis Teddy Clément 👋
 
----
-
 ### Tu peux découvrir mon site internet : [teddyclement.com][website]
 
 ### Je suis étudiant à Epitech Marseille à la recherche d'une alternance
