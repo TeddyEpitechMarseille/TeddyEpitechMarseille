@@ -2,7 +2,7 @@
 
 ---
 
-## Tu peux découvrir mon site internet : [teddyclement.com][website]
+### Tu peux découvrir mon site internet : [teddyclement.com][website]
 
 ### Je suis étudiant un étudiant d'Epitech Marseille à la recherche d'une alternance
 
