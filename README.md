@@ -20,6 +20,7 @@ Ou bien par mon [linkedin][linkedin]<br />
 Sinon tu as toujours mon mail pro : teddy.clement@epitech.eu
 
 <br />
+
 ---
 
 ### Languages and Tools:
