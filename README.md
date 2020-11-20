@@ -9,13 +9,13 @@
 - J'ai publié mon [premier projet en NodeJS][course] !
 - J'apprends en ce moment React
 - Je suis passionné par 3 choses : la programmation, la musculation et les animés
-- 🥅 2021 Goals: Devenir un membre à part entière d'une équipe de développeur
+- 🥅 Objectif 2021 : Devenir un membre à part entière d'une équipe de développeurs
 
 ---
 
 ### Tu peux me contacter:
 
-En passant par mon site internet ! [teddyclement.com][website]<br />
+En passant par mon site internet : [teddyclement.com][website]<br />
 Ou bien par mon [linkedin][linkedin]<br />
 Sinon tu as toujours mon mail pro : teddy.clement@epitech.eu
 
